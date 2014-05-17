@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GPSTracking</string>
+    <string name="action_settings">Settings</string>
+    <string name="pre_recording_button">記録</string>
+    <string name="stop_recording_button">停止</string>
+    <string name="latitude">緯度</string>
+    <string name="longitude">経度</string>
+    <string name="altitude">高度</string>
+    <string name="current_location">現在の位置</string>
+
+</resources>
